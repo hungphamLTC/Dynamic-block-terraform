@@ -1,9 +1,9 @@
-variable "name" {
+variable "name_test" {
   description = "Name for security group resource"
   type        = string
 }
 
-variable "description" {
+variable "description_test" {
   description = "Description for security group resource"
   type        = string
 }

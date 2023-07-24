@@ -17,5 +17,5 @@ variable "description" {
 variable "vpc_id" {
   description = "VPC ID that the security group resource will be assigned"
   type        = string
-  default = null
+  default     = null
 }
